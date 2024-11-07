@@ -8,9 +8,9 @@ The file module of this script allows the user to convert the content of a .txt 
 
 Usage
 -----
- 1. Install lua if it's not already installed in your system [See Here](https://www.lua.org/download.html)
- 2. Place the main.lua and cofig.lua in the same directory.
- 3. Place the .txt file you want to convert in the same directory as the script
+ 1. Install lua if it's not already installed in your system - [See Here](https://www.lua.org/download.html)
+ 2. Place the ``main.lua``  and ``cofig.lua``  in the same directory.
+ 3. If you want to use the file conversion make sure to place the .txt file you want to convert in the same directory as the script
  1. Run: ``lua /path/main.lua`` and follow the on screen instructions.
 
 Configuring / Customizing
