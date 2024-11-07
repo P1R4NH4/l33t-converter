@@ -1,5 +1,5 @@
 # l33t Converter
-=========
+
 This is a very simple Leet converter with text file conversion capability.
 This is my first lua script and has been coded as a training exercise, so please forgive any code imperfection.
 
